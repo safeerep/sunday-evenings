@@ -1,0 +1,6 @@
+SAFEER,MON,EP
+M,E,R,N,S,T,A,C,K,D,E,V,E,L,O,P,E,R
+Self-taught,full-stack,developer,specializing,in,the,MERN,stack,,with,a,strong,desire,to,create
+scalable,and,maintainable,applications.,Proven,expertise,in,JavaScript,,complemented,by
+analytical,and,problem-solving,skills.,Eager,to,contribute,dynamic,talents,to,organizations,seeking
+innovation,in,web,development.
