@@ -3,3 +3,6 @@ week2 - events in nodejs;
 week3 - fs module in nodejs;
 week4 - fork and spawn in nodejs for having childprocesses;
 week5 - worker threads in nodejs
+
+ - major design patterns
+week6 - module pattern - one of the major design pattern
