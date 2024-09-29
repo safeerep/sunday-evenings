@@ -30,3 +30,4 @@ week26 - template literals and tagged template literals in js;
 week27 - currying in js;
 week28 - promises patterns in js;
 week29 - shadowing in js;
+week30 - Temporal Dead Zone (TDZ) in js;
